@@ -32,8 +32,8 @@ pip install -r requirements.txt
 | Task | Name |
 |-|-|
 | 01  | [Hyperparameters](#01-hyperparameters) |
-| 02_a | [Dataset](#02-a-dataset) |
-| 02_b | [Image Annotation Tool](#02-b-image-annotation-tool) |
+| 02_a | [Dataset](#02_a-dataset) |
+| 02_b | [Image Annotation Tool](#02_b-image-annotation-tool) |
 | 03  | [Camera App](#03-camera-app) |
 
 # 01 Hyperparameters
