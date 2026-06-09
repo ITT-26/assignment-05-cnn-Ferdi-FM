@@ -78,8 +78,8 @@ I wrote a script for (almost) complete automatic image annotation with mediapipe
     ````
     py 02-image-annotation\ITT-Image-Annotation.py
     ````
-- It will ask an Input to enter your name (this is also used to generate a UserId with a little salt)
-- In the Terminal it will show what gesture you should make. You can press c to skip to the next gesture (Once all gestures are done it will prompt you to change location)
+- It will ask for an Input to enter your name (this is also used to generate a UserId with a little salt)
+- In the Terminal it will show what gesture you should make. You can press **_C_** to skip to the next gesture (Once all gestures are done it will prompt you to change location)
 - Press **_Space_** to capture an image
 - Your hand will be auto-detected and boundingBoxes will be automatically drawn (it will max detect 2 Hands)
 - If no Hands are detected just spam **_Space_** a bit, with too bright lighting it can be fickle
@@ -98,27 +98,27 @@ I wrote a script for (almost) complete automatic image annotation with mediapipe
     ````
     If no parameters are given a DirectoryDialog for the Output-path will open and the countDown is set to 3
 - Now the Image from your cam is shown, your hand will be automatically recognized so you can just start making gestures (only one hand is recognized at a time). **I recommend having a clear background for your hand**
-- Press **_B_**, if you want to display the tracking of your hand with a bounding box and an extra little window that shows the cropped image which will be used for prediction. Also shows the unfiltered prediction in the top left (Threshold for action is 95% confidence)
+- Press **_B_**, if you want to display the tracking of your hand with a bounding box and an extra little window that shows the cropped image which will be used for prediction.
 - Your current accepted gesture will be displayed in the top left, in bracets beside it is the confidence of the current hand. Possible gestures and their impact are displayed on the top right corner (if in portrait mode they will be stacked)  
 To activate an effect: hold the gesture for about a second, this is to prevent accidental inputs.  
-To remove an effect: simply repeat the gesture:
+To remove an effect: simply repeat the gesture.
 
 ### Gestures and Shortcuts
 
 | Gesture | Impact |
 |----|----|
 | ONE  | Applies a Sepia-Filter |
-| ROCK | Will display a pretty frame arround the image |
-| PEACE | Will crop the frame to portrait-Mode (Gesture detection till works for your whole 16:9 rame! You don't need to have your and in the cropped frame) |
+| ROCK | Will display a pretty frame around the image |
+| PEACE | Will crop the frame to portrait-Mode (Gesture detection still works for your whole 16:9 frame! You don't need to have your hand in the cropped frame) |
 | THREE | Adds a vignette around the frame |
 | OK  | Will start a countdown with your specified countDown time, at which end an image will be taken (With cool effects) |
 
 
 |Shortcut| Impact|
 |----|----|
-| B | Will show a bounding box around your hand and open a little preview-window for the predicted image, also shows detailed prediciton-Info right of the "filtered" prediction |
-| ESC | Will cancel if your unhappy with a captured image |
-| SPACE | Starts the countdown same as __*OK*__-Gesture |
+| B | Will show a bounding box around your hand and open a little preview-window for the predicted image |
+| ESC | Will cancel if you're unhappy with a captured image |
+| SPACE | Starts the countdown, same as __*OK*__-Gesture |
 
 
 # Citations:
