@@ -1,0 +1,6 @@
+.vscode
+venv
+01-hyperparameters/gesture_dataset_sample
+01-hyperparameters/models
+03-camera-app/old_models
+*.ipynb_checkpoints

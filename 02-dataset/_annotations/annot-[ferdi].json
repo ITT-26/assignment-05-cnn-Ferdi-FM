@@ -1,0 +1,257 @@
+{
+    "f0fffe80-fbcd-4872-8d08-1a37c0d7522f": {
+        "bboxes": [
+            [
+                0.1125,
+                0.3861111111111111,
+                0.17447916666666666,
+                0.42407407407407405
+            ]
+        ],
+        "labels": [
+            "like"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": "430243080513d9cb7c2864bbfac44013af474c17ef554e71a172f313b3412b7d"
+    },
+    "7d75db2b-c117-4b09-8671-71517a5f32e4": {
+        "bboxes": [
+            [
+                0.30885416666666665,
+                0.5120370370370371,
+                0.19583333333333333,
+                0.44166666666666665
+            ]
+        ],
+        "labels": [
+            "dislike"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": "430243080513d9cb7c2864bbfac44013af474c17ef554e71a172f313b3412b7d"
+    },
+    "8d6edba0-cb6d-45af-969f-3424a3402e6b": {
+        "bboxes": [
+            [
+                0.10416666666666667,
+                0.27870370370370373,
+                0.19791666666666666,
+                0.5361111111111111
+            ]
+        ],
+        "labels": [
+            "stop"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": "430243080513d9cb7c2864bbfac44013af474c17ef554e71a172f313b3412b7d"
+    },
+    "547ccd3a-328f-4d21-9c15-4639e1109833": {
+        "bboxes": [
+            [
+                0.13854166666666667,
+                0.3055555555555556,
+                0.21927083333333333,
+                0.4324074074074074
+            ]
+        ],
+        "labels": [
+            "rock"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": "430243080513d9cb7c2864bbfac44013af474c17ef554e71a172f313b3412b7d"
+    },
+    "d999b18e-e103-427c-b4de-83949fff5a75": {
+        "bboxes": [
+            [
+                0.7140625,
+                0.2351851851851852,
+                0.21927083333333333,
+                0.6175925925925926
+            ]
+        ],
+        "labels": [
+            "peace"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "left",
+        "user_id": "430243080513d9cb7c2864bbfac44013af474c17ef554e71a172f313b3412b7d"
+    },
+    "5a37b501-43f8-4eab-aba7-1a3b017046fd": {
+        "bboxes": [
+            [
+                0.12864583333333332,
+                0.43425925925925923,
+                0.178125,
+                0.45092592592592595
+            ]
+        ],
+        "labels": [
+            "like"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": "430243080513d9cb7c2864bbfac44013af474c17ef554e71a172f313b3412b7d"
+    },
+    "9586d4bf-6557-4837-a2fe-8fb96e0fcf0a": {
+        "bboxes": [
+            [
+                0.5869791666666667,
+                0.42314814814814816,
+                0.24635416666666668,
+                0.4398148148148148
+            ]
+        ],
+        "labels": [
+            "dislike"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "left",
+        "user_id": "430243080513d9cb7c2864bbfac44013af474c17ef554e71a172f313b3412b7d"
+    },
+    "30c33437-4013-4bb0-af89-5f2545cbd474": {
+        "bboxes": [
+            [
+                0.5848958333333333,
+                0.25925925925925924,
+                0.25052083333333336,
+                0.6712962962962963
+            ]
+        ],
+        "labels": [
+            "stop"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "left",
+        "user_id": "430243080513d9cb7c2864bbfac44013af474c17ef554e71a172f313b3412b7d"
+    },
+    "7f27958a-89a2-4974-bcfc-78d4f292863a": {
+        "bboxes": [
+            [
+                0.6755208333333333,
+                0.24814814814814815,
+                0.20364583333333333,
+                0.4935185185185185
+            ]
+        ],
+        "labels": [
+            "rock"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "left",
+        "user_id": "430243080513d9cb7c2864bbfac44013af474c17ef554e71a172f313b3412b7d"
+    },
+    "3e9ae55d-f58e-4b20-8ef4-2fd7825679ba": {
+        "bboxes": [
+            [
+                0.022916666666666665,
+                0.18518518518518517,
+                0.19322916666666667,
+                0.5972222222222222
+            ]
+        ],
+        "labels": [
+            "peace"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": "430243080513d9cb7c2864bbfac44013af474c17ef554e71a172f313b3412b7d"
+    },
+    "1de3db5d-7995-49a0-b723-5b988d93029a": {
+        "bboxes": [
+            [
+                0.025,
+                0.0962962962962963,
+                0.21197916666666666,
+                0.5037037037037037 
+            ]
+        ],
+        "labels": [
+            "like"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": "430243080513d9cb7c2864bbfac44013af474c17ef554e71a172f313b3412b7d"
+    },
+    "c8b23384-26a8-4cb9-a8ae-06667dbd4333": {
+        "bboxes": [
+            [
+                0.22291666666666668,
+                0.3277777777777778,
+                0.19322916666666667,
+                0.44537037037037036
+            ]
+        ],
+        "labels": [
+            "dislike"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": "430243080513d9cb7c2864bbfac44013af474c17ef554e71a172f313b3412b7d"
+    },
+    "70bb3dfd-aa86-43e0-aaea-61860e42113f": {
+        "bboxes": [
+            [
+                0.6791666666666667,
+                0.22592592592592592,
+                0.221875,
+                0.662962962962963
+            ]
+        ],
+        "labels": [
+            "stop"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "left",
+        "user_id": "430243080513d9cb7c2864bbfac44013af474c17ef554e71a172f313b3412b7d"
+    },
+    "2421b1eb-ecd9-486f-a049-dcc1f41aa884": {
+        "bboxes": [
+            [
+                0.0,
+                0.14629629629629629,
+                0.1890625,
+                0.5527777777777778
+            ]
+        ],
+        "labels": [
+            "rock"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "right",
+        "user_id": "430243080513d9cb7c2864bbfac44013af474c17ef554e71a172f313b3412b7d"
+    },
+    "e59e2e3a-be38-4d8d-8727-1b1d5b5c001d": {
+        "bboxes": [
+            [
+                0.6994791666666667,
+                0.25462962962962965,
+                0.22135416666666666,
+                0.6037037037037037
+            ]
+        ],
+        "labels": [
+            "peace"
+        ],
+        "landmarks": [],
+        "leading_conf": 1.0,
+        "leading_hand": "left",
+        "user_id": "430243080513d9cb7c2864bbfac44013af474c17ef554e71a172f313b3412b7d"
+    }
+}
