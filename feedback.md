@@ -1,8 +1,8 @@
-# Ferdi-FM (18.5)
+# Ferdi-FM (19/20)
 
-## 1 Exploring Hyperparamaters (3.5/5)
+## 1 Exploring Hyperparamaters (4/5)
 
-- no results/report/interpretation of inference time (-1.5)
+- no results/report/interpretation of inference time (-1)
 
 
 ## 2 Gathering a Dataset (5/5)
